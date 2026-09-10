@@ -1,26 +1,22 @@
-<h1 align="center">Olá, eu sou o João Vitor Godoy 👋</h1>
+<h1 align="center">João Vitor Godoy</h1>
 
-<p align="center">
-  <strong>Estudante de Back-End</strong> fissurado por lógica, dados e Inteligência Artificial.
-</p>
+<p align="center">Estudante fissurado por lógica, dados e Inteligência Artificial.</p>
 
-<p align="center">
-  🎓 Sistemas de Informação no <strong>CIn-UFPE</strong> &nbsp;•&nbsp; 💻 Ciência da Computação na <strong>Cesar School</strong>
-</p>
+<p align="center">· Sistemas de Informação <strong>@CIn-UFPE</strong> ·</p>
 
 ---
 
-### 🚀 Sobre mim
+### Sobre mim
 
-- 🔭 Estou construindo uma base sólida em **lógica** e **boas práticas de programação**.
-- 🌱 Atualmente estudando **Python** e os fundamentos de **back-end**.
-- 🤖 Quero me aprofundar em **Inteligência Artificial** e **Banco de Dados**.
-- 🎯 Objetivo: resolver problemas reais transformando dados em decisões.
-- 🌎 Recife, PE — Brasil · Inglês avançado.
+- Estou construindo uma base sólida em **lógica** e **boas práticas de programação**.
+- Quero me aprofundar em **Inteligência Artificial** e **Banco de Dados**.
+- Objetivo: resolver problemas reais transformando dados em decisões.
+- **Inglês avançado.**
+- Recife, PE — Brasil
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+### Tecnologias & Ferramentas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -34,15 +30,17 @@
 
 ---
 
-### 🌟 Projeto em destaque
+### Projeto em destaque
 
-**🧠 Neuron** — Jogo de enigmas com foco em **acessibilidade**, criado para incluir jogadores com limitações motoras graves (como tetraplegia). O usuário joga por **comando de voz** (Python → Arduino), com um tabuleiro físico de LEDs que marca o avanço a cada enigma resolvido. Une **hardware, software e acessibilidade**.
+**Neuron** — Jogo de enigmas com foco em **acessibilidade**, criado para incluir jogadores com limitações motoras graves (como tetraplegia). O usuário joga por **comando de voz** (Python → Arduino), com um tabuleiro físico de LEDs que marca o avanço a cada enigma resolvido. Une **hardware, software e acessibilidade**.
+
+<a href="https://github.com/joaovgalvao1/neuron" target="_blank">Repositório do projeto</a>
 
 `Python` · `C++` · `Arduino Mega 2560` · `HTML` · `CSS` · `JavaScript`
 
 ---
 
-### 🔗 Onde me encontrar
+### Onde me encontrar
 
 <p align="center">
   <a href="https://joaovgalvao1.github.io/portfolio/" target="_blank">
