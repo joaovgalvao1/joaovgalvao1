@@ -9,7 +9,7 @@
 ### Sobre mim
 
 - Estou construindo uma base sólida em **lógica** e **boas práticas de programação**.
-- Quero me aprofundar em **Inteligência Artificial** e **Banco de Dados**.
+- Quero me aprofundar em **Inteligência Artificial** e **Machine Learning**.
 - Objetivo: resolver problemas reais transformando dados em decisões.
 - **Inglês avançado.**
 - Recife, PE — Brasil
