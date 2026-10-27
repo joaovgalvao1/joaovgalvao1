@@ -1,6 +1,6 @@
 <h1 align="center">João Vitor Godoy</h1>
 
-<p align="center">Estudante fissurado por lógica, dados e Inteligência Artificial.</p>
+<p align="center">Estudante fissurado por programação, lógica, dados e Inteligência Artificial.</p>
 
 <p align="center">· Sistemas de Informação <strong>@CIn-UFPE</strong> ·</p>
 
@@ -41,11 +41,12 @@
 ---
 
 ### Onde me encontrar
+<!-- ATUALIZAR PORTFOLIO -->
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://joaovgalvao1.github.io/portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portf%C3%B3lio-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio" />
-  </a>
+  </a> -->
   <a href="https://www.linkedin.com/in/joaovgodoy/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
