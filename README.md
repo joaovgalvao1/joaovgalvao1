@@ -54,7 +54,3 @@
     <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
   </a>
 </p>
-
-<p align="center">
-  <em>Em constante aprendizado — cada linha de código é um passo na jornada.</em>
-</p>
